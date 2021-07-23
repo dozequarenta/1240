@@ -1,5 +1,9 @@
 body {
+<<<<<<< HEAD
     background-color: black;
+=======
+    background-color: rgb(2, 0, 94);
+>>>>>>> main
   }
   
   h1 {
@@ -14,4 +18,8 @@ body {
     font-size: 20px;
     text-align: center;
     color: white;
+<<<<<<< HEAD
   }
+=======
+  }
+>>>>>>> main
