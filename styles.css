@@ -8,6 +8,8 @@
     font-family: 'Courier New', monospace;
     font-weight: bold;
     font-size: 15pt;
+    margin-top: 50px;
+    margin-left: 170px;
   }
 
   p {
@@ -18,8 +20,8 @@
     color: white;
     margin-top: 100px;
     margin-bottom: 100px;
-    margin-right: 150px;
-    margin-left: 150px;
+    margin-right: 170px;
+    margin-left: 170px;
   }
  
   a:link {
