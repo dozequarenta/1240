@@ -5,12 +5,12 @@
   h1 {
     color: white;
     text-align: center;
-    font-family:'Courier New', Courier, monospace;
+    font-family: Courier
     font-size: 40px;
   }
 
   p {
-    font-family: 'Courier New', Courier, monospace;
+    font-family: Courier
     font-size: 20px;
     text-align: center;
     color: white;
@@ -18,11 +18,13 @@
   /* unvisited link */
   a:link {
     color: yellow;
+    text-decoration: none;
   }
 
 /* visited link */
   a:visited {
     color: yellow;
+    text-decoration: none;
   }
 
 /* mouse over link */
