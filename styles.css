@@ -14,7 +14,7 @@
     font-family: American Typewriter;
     font-size: 20px;
     font-weight: bold;
-    text-align: center;
+    text-align: left;
     color: white;
     margin-top: 100px;
     margin-bottom: 80px;
@@ -57,16 +57,4 @@
     text-align: center;
     padding: 50px;
     text-decoration: none;
-  }
-    div.a {
-    text-indent: 25px;
-    font-family: American Typewriter;
-    font-size: 20px;
-    font-weight: bold;
-    text-align: center;
-    color: white;
-    margin-top: 100px;
-    margin-bottom: 80px;
-    margin-right: 100px;
-    margin-left: 100px;
   }
