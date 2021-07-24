@@ -42,4 +42,12 @@
     text-decoration: underline;
     color: hotpink;
   }
-
+  
+  .footer {
+  font-family: 'Courier New', monospace;
+    font-size: 15pt;
+    font-weight: bold;
+    text-align: center;
+    color: white;
+    margin-bottom: 80px;
+ }
