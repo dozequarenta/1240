@@ -19,18 +19,18 @@
   }
  
   a:link {
-    color: yellow;
-    text-decoration: none;
+    color: none;
+    text-decoration: underline;
   }
 
   a:visited {
-    color: yellow;
+    color: none;
     text-decoration: none;
   }
 
   a:hover {
     color: red;
-    text-decoration: underline;
+    text-decoration: none;
   }
 
   a:active {
