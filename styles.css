@@ -3,27 +3,26 @@
   }
   
   h1 {
-    color: white;
-    text-align: center;
-    font-family: American Typewriter;
+    color: yellow;
+    text-align: left;
+    font-family: 'Courier New', monospace;
     font-weight: bold;
     font-size: 20px;
   }
 
   p {
-    font-family: American Typewriter;
+    font-family: 'Courier New', monospace;
     font-size: 20px;
     font-weight: bold;
     text-align: justify;
     color: white;
     margin-top: 100px;
-    margin-bottom: 80px;
-    margin-right: 100px;
-    margin-left: 100px;
+    margin-bottom: 100px;
+    margin-right: 150px;
+    margin-left: 150px;
   }
  
   a:link {
-    color: white;
     text-decoration: underline;
   }
 
