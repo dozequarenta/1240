@@ -26,6 +26,7 @@
  
   a:link {
     text-decoration: underline;
+    color: white;
   }
 
   a:visited {
@@ -39,15 +40,15 @@
   }
 
   a:active {
-    text-decoration: underline;
+    text-decoration: none;
     color: hotpink;
   }
   
-  .footer {
-    font-family: 'Courier New', monospace;
-    font-size: 15pt;
-    font-weight: bold;
-    text-align: center;
-    color: white;
-    margin-bottom: 80px;
+ .footer {
+   position: fixed;
+   font-family: 'Courier New', monospace;
+   bottom: 0;
+   width: 100%;
+   color: black;
+   text-align: center;
  }
