@@ -9,7 +9,8 @@
     font-weight: bold;
     font-size: 15pt;
     margin-top: 50px;
-    margin-left: 200px;
+    margun-right: 250px;
+    margin-left: 250px;
   }
 
   p {
@@ -20,8 +21,8 @@
     color: white;
     margin-top: 100px;
     margin-bottom: 100px;
-    margin-right: 200px;
-    margin-left: 200px;
+    margin-right: 250px;
+    margin-left: 250px;
   }
  
   a:link {
